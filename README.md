@@ -14,7 +14,7 @@ The **Clinic Management System** is a full-stack web application designed to str
 ### 2. **Appointment Management**
    - Schedule, update, and cancel appointments.
    - View upcoming, pending, and cancelled appointments.
-   - Send appointment reminders via email.
+   - Send appointment reminders via email
 
 ### 3. **Invoice Management**
    - Create, update, and delete invoices.
